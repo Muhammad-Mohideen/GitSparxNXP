@@ -1,3 +1,5 @@
 This is to explore the workflow of GIT
 
 Making some changes
+
+Now uploaded in the Git Repository
